@@ -4,5 +4,3 @@ function a () {
     console.log(789)
     console.log('okokok')
 }
-
-console.log('dd')
